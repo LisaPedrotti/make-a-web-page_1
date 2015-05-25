@@ -1,0 +1,50 @@
+*{
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+}
+body {
+	padding: 20px 10px;
+	font-family: georgia;
+	max-width: 950px;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+h1 {
+	text-align: center;
+	color: olive;
+  }
+h2 {
+  text-align: center;
+	background-color: silver;
+	border-radius: 10px;
+	color: black;
+	padding: 5px;
+	margin: 5px auto;
+}
+
+h3 {
+  text-align: center;
+  background-color: silver;
+  border-radius: 10px;
+  color: olive;
+  padding: 5px;
+  margin: 5px auto;
+}
+
+h5 {
+  text-align: left;
+  padding: 5px;
+	margin: 5px auto;
+}
+
+p{
+  margin: 10px 0;
+}
+
+div{
+  background-color: teal;
+  font-size: x-large;
+  padding: 5px;
+	margin: 5px auto;
+}
